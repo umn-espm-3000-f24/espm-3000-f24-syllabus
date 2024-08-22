@@ -1,0 +1,28 @@
+# Class Schedule - Subject to Change
+
+```{r, echo = FALSE, message=FALSE, warning=FALSE}
+library(knitr)
+library(dplyr)
+library(kableExtra)
+class.schedule = read.csv("class-schedule.csv")
+#class.schedule = select(class.schedule[-1, ])
+colnames(class.schedule) = c("Date", "Topic Focus", "What's Due?")
+
+kbl(class.schedule, format = "html") %>%
+kable_styling("bordered", full_width = F, fixed_thead = T, html_font = "arial") %>%
+  pack_rows("Week 1", 1,1, background = "grey80") %>%
+  pack_rows("Week 2", 2,2, color = "grey80") %>%
+  pack_rows("Week 3", 3,3) %>%
+  pack_rows("Week 4", 4,4) %>%
+  pack_rows("Week 5", 5,5) %>%
+  pack_rows("Week 6", 6,6) %>%
+  pack_rows("Week 7", 7,7) %>%
+  pack_rows("Week 8", 8,8) %>%
+  pack_rows("Week 9", 9,9) %>%
+  pack_rows("Week 10", 10,10) %>%
+  pack_rows("Week 11", 11,11) %>%
+  pack_rows("Week 12", 12,12) %>%
+  pack_rows("Week 13", 13,13) %>%
+  pack_rows("Week 14", 14,14) %>%
+  scroll_box(width = "100%", height = "1000px")
+```

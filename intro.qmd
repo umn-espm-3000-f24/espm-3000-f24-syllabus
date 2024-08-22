@@ -1,0 +1,17 @@
+# Introduction
+
+Permafrost regions are undergoing rapid environmental and climatic change. In this topics course, we will use first principles to understand the physical properties of these landscapes, the chemical and biological processes occurring in them, and how those properties and processes influence future change trajectories at local, regional, and global scales. Soils, permafrost, hydrological, and climatological topics will be addressed, in addition to the impacts that accelerating change is having on infrastructure, ecology, and people.
+
+## Learning Outcomes
+
+(1) **Engaging** with the primary, peer-reviewed literature on permafrost and the broader implications of permafrost change. We will connect this knowledge to non-peer-reviewed news reports, science writing, and other media.
+
+(2) **Building** skills in technology literacy by using an AI tool as a co-pilot to assist in engaging with complex, primary, peer-reviewed literature.
+
+(3) **Collaborating** by sharing your knowledge and absorbing the knowledge of others in small group discussions.
+
+(4) **Communicating** complex scientific concepts in an accurate but digestible manner when talking to peers and the general public about permafrost properties, processes, and change.
+
+## General Course and Assignment Logistics
+
+This is a student-centered discussion and seminar format course. During each weekly meeting (after week 1) the topic(s) will be introduced for 5-10 minutes, followed by discussions in small-groups on assigned papers from the literature. This will be done in "jigsaw" style - you will be responsible for becoming familiar with 1 paper per week, while using an AI tool (CHatGPT or Claude) as a co-pilot while completing a worksheet to engage with and understand your paper. You will then share your understanding of your paper with your small group, who will take summary notes - there will be 6 members per group. For this format to be successful (and meaningful to you) you will need to take responsibility for your paper each week and be actively involved in the small group discussions.
