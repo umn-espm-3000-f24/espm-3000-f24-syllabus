@@ -1,22 +1,20 @@
 # Grading and Assignment Policies {#sec-assignments}
 
-## Assignments 
+## Assignments
 
 **Assigned Paper Summary Worksheet**
 
-During our first class session (September 6th), you will be assigned a small group (6 total members) and a letter (A, B, C, D, E, or F). Your small group and letter will remain the same throughout the semester. Aside from Week 1 and Week 14 (the last week), you will be assigned a peer-reviewed paper, which will be available on Canvas to read and summarize while engaging with AI tools. Papers will be posted on Canvas one week ahead of time. Each week, you will be required to submit a summary worksheet (which will be available as a template) for your paper. This will require you to read the paper and engage with AI tools to summarize, clarify and ask questions of the paper. The summary worksheet is due on Thursdays (the day before Friday class) by 11:59PM on Canvas. 
+During our first class session (September 6th), you will be assigned a small group (6 total members) and a letter (A, B, C, D, E, or F). Your small group and letter will remain the same throughout the semester. Aside from Week 1 and Week 14 (the last week), you will be assigned a peer-reviewed paper, which will be available on Canvas to read and summarize while engaging with AI tools. Papers will be posted on Canvas one week ahead of time. Each week, you will be required to submit a summary worksheet (which will be available as a template) for your paper. This will require you to read the paper and engage with AI tools to summarize, clarify and ask questions of the paper. The summary worksheet is due on Thursdays (the day before Friday class) by 11:59PM on Canvas.
 
 **Group Jigsaw Worksheet**
 
 During each class session, you will spend time with your small group sharing brief summaries and discussing each of the assigned papers. During this small group time, you will complete a Group Jigsaw Worksheet to be submitted at the end of class - the worksheet will ask you to take condensed notes on each of the 6 assigned papers. This worksheet will be submitted at the end of class on Fridays - on Canvas for the Zoom session and as a hard copy (hard copies will be provided at the beginning of class) for the in-person section.
 
-During the final class session (December 6th), you will share with your small group a synthesis product (see below). You will complete a group jigsaw worksheet for sharing these synthesis products as well. 
+During the final class session (December 6th), you will share with your small group a synthesis product (see below). You will complete a group jigsaw worksheet for sharing these synthesis products as well.
 
 **Synthesis Product: Final Figure or Text Critique**
 
-During the final class session, you will share with your small group one of two choices of synthesis assignment that you have completed. You can either:
-- 1) Create a figure that synthesizes or provides information on a permafrost-related topic we have discussed or
-- 2) You can critique an article (choices will be provided) addressing a permafrost-related topic from a popular news source. This assignment will be due on the last day of class (December 6th).
+During the final class session, you will share with your small group one of two choices of synthesis assignment that you have completed. You can either: - 1) Create a figure that synthesizes or provides information on a permafrost-related topic we have discussed or - 2) You can critique an article (choices will be provided) addressing a permafrost-related topic from a popular news source. This assignment will be due on the last day of class (December 6th).
 
 ## Grading
 
@@ -24,19 +22,19 @@ During the final class session, you will share with your small group one of two 
 
 This class will use a *Specifications Grading System*. Your grade will not be determined by a percentage (%) grade, instead it will be determined by your capacity to meet the requirements of a particular grade level. Final course grades use the +/- system of grading. Course grades will be assigned using the following criteria, which is based on the UMN [Grading and Transcripts Policy](https://policy.umn.edu/education/gradingtranscripts):
 
-| **Letter Grade** | **Criteria** |
-|------------------|-------------|
-| A                | **One or fewer** unexcused absences; **Completion of all** Assigned Paper Summaries at a satisfactory level or higher (11); **Completion of all** Group Jigsaw Worksheets at a satisfactory level or higher (12); **Completion of** Synthesis Product at a satisfactory level or higher (1)|
-| A-               | Meets the requirements of the A Grade in 3 of the 4 criteria |
-| B+               | Meets the requirements of B grade, and also meets the requirements of the A grade in 2 of the 4 criteria |
-| B                | **Two or fewer** unexcused absences; *Two or fewer* Assigned Paper Summaries at a lower than acceptable level (11); *Two or fewer* Group Jigsaw Worksheets at a lower than acceptable level (12); **Completion of** Synthesis Product at a satisfactory level or higher (1)|
-| B-               | Meets the requirements of B Grade in 2 of the 4 criteria. |
-| C+               | Meets the requirements of C Grade, and also meets the requirements of the B Grade in 1 of the 4 criteria.  |
-| C                | **Three or fewer** unexcused absences; *Three or fewer* Assigned Paper Summaries at a lower than acceptable level (11); *Three or fewer* Group Jigsaw Worksheets at a lower than acceptable level (12); **Completion of** Synthesis Product at a lower than acceptable level (1) |
-| C-               | Meets the requirements of C Grade in 2 of the 4 criteria.  |
-| D+               | Meets the requirements of D Grade, and also meets the requirements of the C Grade in 1 of the 4 criteria.   |
-| D                | **Four or fewer** unexcused absences; *Four or fewer* Assigned Paper Summaries at a lower than acceptable level (11); *Four or fewer* Group Jigsaw Worksheets at a lower than acceptable level (12); **Completion of** Synthesis Product at a lower than acceptable level (1) |
-| F                | Failing to meet the minimum requirements of the D grade       |
+| **Letter Grade** | **Criteria**                                                                                                                                                                                                                                                                                |
+|------------------------------------------|------------------------------|
+| A                | **One or fewer** unexcused absences; **Completion of all** Assigned Paper Summaries at a satisfactory level or higher (11); **Completion of all** Group Jigsaw Worksheets at a satisfactory level or higher (12); **Completion of** Synthesis Product at a satisfactory level or higher (1) |
+| A-               | Meets the requirements of the A Grade in 3 of the 4 criteria                                                                                                                                                                                                                                |
+| B+               | Meets the requirements of B grade, and also meets the requirements of the A grade in 2 of the 4 criteria                                                                                                                                                                                    |
+| B                | **Two or fewer** unexcused absences; *Two or fewer* Assigned Paper Summaries at a lower than acceptable level (11); *Two or fewer* Group Jigsaw Worksheets at a lower than acceptable level (12); **Completion of** Synthesis Product at a satisfactory level or higher (1)                 |
+| B-               | Meets the requirements of B Grade in 2 of the 4 criteria.                                                                                                                                                                                                                                   |
+| C+               | Meets the requirements of C Grade, and also meets the requirements of the B Grade in 1 of the 4 criteria.                                                                                                                                                                                   |
+| C                | **Three or fewer** unexcused absences; *Three or fewer* Assigned Paper Summaries at a lower than acceptable level (11); *Three or fewer* Group Jigsaw Worksheets at a lower than acceptable level (12); **Completion of** Synthesis Product at a lower than acceptable level (1)            |
+| C-               | Meets the requirements of C Grade in 2 of the 4 criteria.                                                                                                                                                                                                                                   |
+| D+               | Meets the requirements of D Grade, and also meets the requirements of the C Grade in 1 of the 4 criteria.                                                                                                                                                                                   |
+| D                | **Four or fewer** unexcused absences; *Four or fewer* Assigned Paper Summaries at a lower than acceptable level (11); *Four or fewer* Group Jigsaw Worksheets at a lower than acceptable level (12); **Completion of** Synthesis Product at a lower than acceptable level (1)               |
+| F                | Failing to meet the minimum requirements of the D grade                                                                                                                                                                                                                                     |
 
 ::: callout-note
 A grade of C- is required to pass this class if you elected to take this course under the Pass/Fail grading system.
@@ -60,10 +58,10 @@ This course conforms to the UMN [expected time per course credit policy](https:/
 
 Here is how the course conforms:
 
-| **Activity**     | **Number** | **Hours**         |
-|------------------|------------|-------------------|
-| Class Sessions (including in-class Group Jigsaw Worksheets)\*       | 14         | 14 x 1 = 14 hours |
-| Assigned Paper Summaries    | 13         | 13 x 2 = 26 hours |
-| Synthesis Product           | 1         | 5 x 1 = 5 hours |
-|                  | IN CLASS\* | 14 hours          |
-|                  | **TOTAL**    | **45 hours**         |
+| **Activity**                                                  | **Number** | **Hours**         |
+|--------------------------|------------------|----------------------------|
+| Class Sessions (including in-class Group Jigsaw Worksheets)\* | 14         | 14 x 1 = 14 hours |
+| Assigned Paper Summaries                                      | 13         | 13 x 2 = 26 hours |
+| Synthesis Product                                             | 1          | 5 x 1 = 5 hours   |
+|                                                               | IN CLASS\* | 14 hours          |
+|                                                               | **TOTAL**  | **45 hours**      |

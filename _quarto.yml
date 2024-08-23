@@ -8,17 +8,18 @@ book:
   author: "Nic Jelinski and Katrina Nelson"
   date: "22AUG2024"
   cover-image: "espm-3000.png"
-  number: "0.2"
-  #navbar: 
-    #right: 
-      #- icon: cc-circle
-      #- href: https://creativecommons.org/licenses/by/4.0/
-      #- aria-label: Creative Commons
+  number: "0.3"
+  navbar: 
+    right: 
+      - text: "CC-BY 4.0"
+        icon: cc-circle
+        href: https://creativecommons.org/licenses/by/4.0/
+        aria-label: Creative Commons
   
   chapters:
     - index.qmd
     - intro.qmd
-    #- course-resources.qmd
+    - course-resources.qmd
     - assignments-points-grades.qmd
     #- poll-everywhere.qmd
     - makeup-policies.qmd
