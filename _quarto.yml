@@ -6,9 +6,9 @@ project:
 book:
   title: "Changing Permafrost Landscapes: Properties, Processes, and Change (ESPM 3000) Syllabus - Fall 2024"
   author: "Nic Jelinski and Katrina Nelson"
-  date: "22AUG2024"
+  date: "22NOV2024"
   cover-image: "espm-3000.png"
-  number: "0.3"
+  number: "0.4"
   navbar: 
     right: 
       - text: "CC-BY 4.0"
